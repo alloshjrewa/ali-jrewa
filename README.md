@@ -47,9 +47,9 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/ali-jrewa
-- LinkedIn: *(add your LinkedIn here)*
-- Email: *(add your professional email)*
+- GitHub: [https://github.com/ali-jrewa](https://github.com/alloshjrewa/)
+- LinkedIn: https://www.linkedin.com/in/ali-jrewa/
+- Email: alifares.cr7aa@gmail.com
 
 ---
 
